@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: NGS1
     url: https://ngs1m.nimrdinfrastructure.net
+    check: "tcp-ping"
   - name: Modded Minecraft
     url: https://modded-map.nimrd.net
   - name: ARK
