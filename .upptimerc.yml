@@ -21,7 +21,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nimrod
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from our servers to give the most up to date status of our services.
+  introMessage: "This status page uses **real-time** data from our servers to give the most up-to-date status of our services."
+  links: # Added a parent key to group the links
     - title: Nimrod
       href: /
     - title: GitHub
